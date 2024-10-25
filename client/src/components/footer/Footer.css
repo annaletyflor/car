@@ -1,0 +1,20 @@
+.main-container {
+    background-color: #fff; /* White background for initial lines */
+  }
+  
+  .thin-line {
+    height: 5px; /* Adjust height as needed */
+    background-color: #f0e68c; /* Khaki color for the lines */
+    margin-bottom: 2px; /* Adjust spacing between lines */
+  }
+  
+  .footer {
+    background-color: #ffd700; /* Gold color for the footer */
+    padding: 10px 0; /* Adjust padding as needed */
+  }
+  
+  .footer-text {
+    color: white;
+    text-align: center;
+  }
+  
